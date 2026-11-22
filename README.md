@@ -13,6 +13,8 @@ This repository contains lab work for LAB 3 of the Computer Fundamentals & Caree
 
 The project focuses on GitHub collaboration, Git version control, Markdown documentation, and API interaction.
 
+**This project is created as part of CSE103 Lab 3.**
+
 ## Repository Structure
 
 ```text
